@@ -1,4 +1,4 @@
-
+﻿
 Android
 
 1.	20+ Awesome Open-Source Android Apps To Boost Your Development Skills
@@ -109,7 +109,7 @@ Miscellaneous
 	
 Raspberry Pi
 
-1.  Setup a Raspberry Pi Web Server with Your Own .COM Using Google Domains
+1.  Setup a Raspberry Pi Web Server with Your Own .COM Using Google Domains ***
 	https://www.youtube.com/watch?v=vzojwG7OB7c
 	
 2.  How to convert your laptop/desktop into a server and host internet accessible website on it: Part 1 – Mindorks
@@ -129,6 +129,9 @@ Raspberry Pi
 	
 7.  How to Make a Raspberry Pi Web Server | Raspberry Pi | Maker Pro
 	https://maker.pro/projects/raspberry-pi/raspberry-pi-web-server
+
+8.  Make online web server ***
+	https://www.youtube.com/results?search_query=make+online+web+server
 	
 	***************************************
 
