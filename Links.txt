@@ -1,0 +1,159 @@
+
+Android
+
+1.	20+ Awesome Open-Source Android Apps To Boost Your Development Skills
+	https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4
+	
+2.	Gradient XML
+	https://developer.android.com/samples/GridViewPager/res/drawable/gradient.html
+	
+3.  Create Beautiful Login
+	https://www.youtube.com/watch?v=GAdGmJxfcf8
+	
+4.  Create beautiful login screen|Android Studio Tutorial|Android Apps|Login Screen
+	https://www.youtube.com/watch?v=GAdGmJxfcf8
+	
+	***************************************
+	
+Angular
+
+1.  Angular Quickstart
+	https://angular.io/guide/quickstart
+	
+2.  Angular Setup
+	https://angular.io/guide/setup
+	
+3.  Angular CLI
+	https://cli.angular.io/
+	
+4.  Routing and Navigation in Angular
+	https://www.youtube.com/watch?v=tUCa3JcFILI
+	
+5.  AngularJS: Basic Introduction (for very beginners)
+	https://www.youtube.com/watch?v=nO1ROKMjPqI&list=PLvZkOAgBYrsS_ugyamsNpCgLSmtIXZGiz&index=1
+	
+6.  Angular modules and controllers
+	https://www.youtube.com/watch?v=gWmOKmgnQkU&list=PL6n9fhu94yhWKHkcL7RJmmXyxkuFB3KSl&index=2
+	
+	***************************************
+	
+Database
+
+1.  Database Design Tutorial
+	https://www.youtube.com/watch?v=I_rxqSJAj6U
+		
+2.  SQL Insertion
+	https://www.youtube.com/results?search_query=sql+insertion
+	
+3.  Last Minute Tutorials | Query processing | Advanced Database Management System
+	https://www.youtube.com/watch?v=8B0uKwriP-4	
+	
+	***************************************
+	
+Git
+
+1.  Adding an existing project to GitHub using the command line - User Documentation
+	https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+	
+2.  Branching Git
+	https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches	
+	
+	***************************************
+	
+HTML
+
+1.  HTML5 Boilerplate: The web’s most popular front-end template
+	https://html5boilerplate.com/	
+	
+	***************************************
+	
+JavaScript
+
+1.  JavaScript: Understanding the Weird Parts - The First 3.5 Hours
+	https://www.youtube.com/watch?v=Bv_5Zv5c-Ts
+	
+2.  JavaScript basic - Exercises, Practice, Solution - w3resource
+	https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php#EDITOR
+	
+3.  Javascript beginner tutorial 1 - Introduction to javascript
+	https://www.youtube.com/watch?v=jkTzHEtHd54&list=PL41lfR-6DnOrwYi5d824q9-Y6z3JdSgQa
+	
+	***************************************
+	
+Material Design
+	
+1.  Material Design Blog • All About Material Design
+	http://materialdesignblog.com/	
+	
+2.  Material Design Drawers - 5 Interesting and Intuitive Drawers
+	http://materialdesignblog.com/5-interesting-and-intuitive-material-design-drawers/
+	
+3.  Side Menu Animation by Dmytro Prudnikov - Dribbble
+	https://dribbble.com/shots/1689922-Side-Menu-Animation
+	
+4.  GitHub - Yalantis/Side-Menu.Android: Side menu with some categories to choose.
+	https://github.com/Yalantis/Side-Menu.Android
+	
+5.  Want to Learn Material Design? Check Out These 10 Best Resources!
+	http://materialdesignblog.com/want-to-learn-material-design-check-out-these-10-best-resources/
+
+	
+	***************************************
+	
+Miscellaneous
+	
+1.  This Movie Will Change Your life. I Am Speechless ᴴᴰ
+	https://www.youtube.com/watch?v=itQVuZearm0
+	
+	***************************************
+	
+Raspberry Pi
+
+1.  Setup a Raspberry Pi Web Server with Your Own .COM Using Google Domains
+	https://www.youtube.com/watch?v=vzojwG7OB7c
+	
+2.  How to convert your laptop/desktop into a server and host internet accessible website on it: Part 1 – Mindorks
+	https://blog.mindorks.com/how-to-convert-your-laptop-desktop-into-a-server-and-host-internet-accessible-website-on-it-part-1-545940164ab9
+
+3.  Ultimate Raspberry Pi Home Server: 30 Steps (with Pictures)
+	http://www.instructables.com/id/Ultimate-Pi-Based-Home-Server/
+	
+4.  Learn how to set up a personal web server with a Raspberry Pi 3 | Opensource.com
+	https://opensource.com/article/17/3/building-personal-web-server-raspberry-pi-3
+
+5.  Setting up an Apache Web Server on a Raspberry Pi - Raspberry Pi Documentation
+	https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md
+	
+6.  How to set up a web server on the Raspberry Pi - The Pi
+	https://thepi.io/how-to-set-up-a-web-server-on-the-raspberry-pi/
+	
+7.  How to Make a Raspberry Pi Web Server | Raspberry Pi | Maker Pro
+	https://maker.pro/projects/raspberry-pi/raspberry-pi-web-server
+	
+	***************************************
+
+Unit Testing
+
+1.	Demo: Unit Testing in Visual Studio (C#) – Ugly Duckling
+	https://uglyduckling.nl/blog/software/c/demo-unit-testing-in-visual-studio-c/
+	
+2.  Get started with unit testing - create test plans | Microsoft Docs
+	https://docs.microsoft.com/en-us/visualstudio/test/getting-started-with-unit-testing
+	
+3.  Unit Testing Tutorial for C# Developers - YouTube
+	https://www.youtube.com/watch?v=HYrXogLj7vg
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
