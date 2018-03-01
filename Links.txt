@@ -135,6 +135,46 @@ Raspberry Pi
 	
 	***************************************
 
+Swift
+
+1.	Sergey Kargopolov Swift iOS Tutorials
+	https://www.youtube.com/user/sergeykargopolov/playlists
+
+2.	How to use xCode for developing iOS Mobile Applications - YouTube
+	https://www.youtube.com/watch?v=m25KXwHBrwA&list=PLIwSqSAJUgD7bzhodLoYYCGxpZ-oBtXzV
+
+3.	Lecture 1: Introduction to iOS 11, Xcode 9 and Swift 4 - YouTube Stanford
+	https://www.youtube.com/watch?v=71pyOB4TPRE
+
+4.	Start Developing iOS Apps (Swift): Jump Right In
+	https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
+
+5.	The Swift Programming Language (Swift 4.1): About Swift
+	https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0
+
+6.	
+
+	***************************************
+
+Swift Networking
+
+1.	How to Parse JSON using Local Data | Swift 3, Xcode 8 - YouTube
+	https://www.youtube.com/watch?v=ih20QtEVCa0&list=PL5h37q2DJtAM9BofNH00omHZufkI1jQhs
+
+2.	ios - Make REST API call in Swift - Stack Overflow
+	https://stackoverflow.com/questions/24321165/make-rest-api-call-in-swift
+
+3.	rest api get and post in swift - Google Search
+	https://www.google.co.in/search?q=rest+api+get+and+post+in+swift&rlz=1C1CHBF_enIN780IN780&oq=rest+api+get+and+post+in+swift&aqs=chrome..69i57.24261j0j1&sourceid=chrome&ie=UTF-8
+
+4.	HTTP Request in Swift with POST method - Stack Overflow
+	https://stackoverflow.com/questions/26364914/http-request-in-swift-with-post-method
+
+5.	HTTP GET Request Example in Swift - Swift Developer Blog
+	http://swiftdeveloperblog.com/http-get-request-example-in-swift/
+
+	***************************************
+
 Unit Testing
 
 1.	Demo: Unit Testing in Visual Studio (C#) – Ugly Duckling
