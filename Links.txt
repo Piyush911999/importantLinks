@@ -1,10 +1,10 @@
-﻿
+
 Android
 
-1.	20+ Awesome Open-Source Android Apps To Boost Your Development Skills
+1.  20+ Awesome Open-Source Android Apps To Boost Your Development Skills
 	https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4
 	
-2.	Gradient XML
+2.  Gradient XML
 	https://developer.android.com/samples/GridViewPager/res/drawable/gradient.html
 	
 3.  Create Beautiful Login
@@ -36,6 +36,31 @@ Angular
 	https://www.youtube.com/watch?v=gWmOKmgnQkU&list=PL6n9fhu94yhWKHkcL7RJmmXyxkuFB3KSl&index=2
 	
 	***************************************
+
+Blockchain
+
+1.  WTF is The Blockchain? – Hacker Noon
+	https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348
+	
+2.  What is Ethereum? A Step-by-Step Beginners Guide [Ultimate Guide]
+	https://blockgeeks.com/guides/ethereum/
+	
+3.  What is An Initial Coin Offering? Raising Millions In Seconds
+	https://blockgeeks.com/guides/initial-coin-offering/
+	
+4.  Routing and Navigation in Angular
+	https://www.youtube.com/watch?v=tUCa3JcFILI
+	
+5.  AngularJS: Basic Introduction (for very beginners)
+	https://www.youtube.com/watch?v=nO1ROKMjPqI&list=PLvZkOAgBYrsS_ugyamsNpCgLSmtIXZGiz&index=1
+	
+6.  Angular modules and controllers
+	https://www.youtube.com/watch?v=gWmOKmgnQkU&list=PL6n9fhu94yhWKHkcL7RJmmXyxkuFB3KSl&index=2
+
+7.  Blockchain– Medium
+	https://medium.com/search?q=blockchain
+
+	***************************************
 	
 Database
 
@@ -57,6 +82,21 @@ Git
 	
 2.  Branching Git
 	https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches	
+
+3.  Git Rebase: A Quick Tutorial on Git Rebasing | GitHub Tips
+	https://benmarshall.me/git-rebase/
+	
+4.  git rebase | Atlassian Git Tutorial
+	https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
+	
+5.  Git - Rebasing
+	https://git-scm.com/book/en/v2/Git-Branching-Rebasing
+	
+6.  Git Tutorial: Rebasing & Merging - YouTube
+	https://www.youtube.com/watch?v=a_msiOrYLgM
+	
+7.  git rebase tutorial - Google Search
+	https://www.google.co.in/search?ei=OIO7WqmCPYvSvgSz9r-oDg&q=git+rebase+tutorial&oq=git+rebase+&gs_l=psy-ab.3.0.0i67k1j0i131k1j0j0i67k1j0l6.5403.7587.0.9274.11.10.0.1.1.0.250.1226.0j6j1.7.0....0...1c.1.64.psy-ab..4.7.978...0i131i67k1.0.qnyqlAN2pBc
 	
 	***************************************
 	
@@ -105,6 +145,21 @@ Miscellaneous
 1.  This Movie Will Change Your life. I Am Speechless ᴴᴰ
 	https://www.youtube.com/watch?v=itQVuZearm0
 	
+2.  Edit Pad - Online Text Editor & Wordpad for Notes
+	https://www.editpad.org/
+
+3.  Mac Login Error
+	https://apple.stackexchange.com/questions/196966/terminal-failing-to-login
+	
+4.  Material icons - Material Design
+	https://material.io/icons/#ic_play_arrow
+
+5.  download images by creating extension
+	https://stackoverflow.com/questions/24231680/loading-downloading-image-from-url-on-swift
+
+6.  6 Important questions
+	https://medium.com/smells-like-team-spirit/6-interview-questions-remote-workers-should-be-able-to-nail-80d5f8024ac6
+	
 	***************************************
 	
 Raspberry Pi
@@ -137,19 +192,19 @@ Raspberry Pi
 
 Swift
 
-1.	Sergey Kargopolov Swift iOS Tutorials
+1.  Sergey Kargopolov Swift iOS Tutorials
 	https://www.youtube.com/user/sergeykargopolov/playlists
 
-2.	How to use xCode for developing iOS Mobile Applications - YouTube
+2.  How to use xCode for developing iOS Mobile Applications - YouTube
 	https://www.youtube.com/watch?v=m25KXwHBrwA&list=PLIwSqSAJUgD7bzhodLoYYCGxpZ-oBtXzV
 
-3.	Lecture 1: Introduction to iOS 11, Xcode 9 and Swift 4 - YouTube Stanford
+3.  Lecture 1: Introduction to iOS 11, Xcode 9 and Swift 4 - YouTube Stanford
 	https://www.youtube.com/watch?v=71pyOB4TPRE
 
-4.	Start Developing iOS Apps (Swift): Jump Right In
+4.  Start Developing iOS Apps (Swift): Jump Right In
 	https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
 
-5.	The Swift Programming Language (Swift 4.1): About Swift
+5.  The Swift Programming Language (Swift 4.1): About Swift
 	https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0
 
 6.	
@@ -158,26 +213,32 @@ Swift
 
 Swift Networking
 
-1.	How to Parse JSON using Local Data | Swift 3, Xcode 8 - YouTube
+1.  How to Parse JSON using Local Data | Swift 3, Xcode 8 - YouTube
 	https://www.youtube.com/watch?v=ih20QtEVCa0&list=PL5h37q2DJtAM9BofNH00omHZufkI1jQhs
 
-2.	ios - Make REST API call in Swift - Stack Overflow
+2.  ios - Make REST API call in Swift - Stack Overflow
 	https://stackoverflow.com/questions/24321165/make-rest-api-call-in-swift
 
-3.	rest api get and post in swift - Google Search
+3.  rest api get and post in swift - Google Search
 	https://www.google.co.in/search?q=rest+api+get+and+post+in+swift&rlz=1C1CHBF_enIN780IN780&oq=rest+api+get+and+post+in+swift&aqs=chrome..69i57.24261j0j1&sourceid=chrome&ie=UTF-8
 
-4.	HTTP Request in Swift with POST method - Stack Overflow
+4.  HTTP Request in Swift with POST method - Stack Overflow
 	https://stackoverflow.com/questions/26364914/http-request-in-swift-with-post-method
 
-5.	HTTP GET Request Example in Swift - Swift Developer Blog
+5.  HTTP GET Request Example in Swift - Swift Developer Blog
 	http://swiftdeveloperblog.com/http-get-request-example-in-swift/
+
+6.  Swift 3 — APIs , Network Requests, & JSON: Getting the data
+	https://code.bradymower.com/swift-3-apis-network-requests-json-getting-the-data-4aaae8a5efc0
+
+7.  Login - News API
+	https://newsapi.org/login
 
 	***************************************
 
 Unit Testing
 
-1.	Demo: Unit Testing in Visual Studio (C#) – Ugly Duckling
+1.  Demo: Unit Testing in Visual Studio (C#) – Ugly Duckling
 	https://uglyduckling.nl/blog/software/c/demo-unit-testing-in-visual-studio-c/
 	
 2.  Get started with unit testing - create test plans | Microsoft Docs
